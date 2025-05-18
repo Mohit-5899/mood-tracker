@@ -2,7 +2,7 @@
 
 A beautiful, interactive mood tracking application that allows users to record their daily emotions with emojis and notes. The app includes a color-coded calendar and mood statistics visualization.
 
-![MoodTracker Screenshot](screenshot.png)
+![MoodTracker Screenshot](./public/mood-tracker-screenshot.png)
 
 ## Features
 
